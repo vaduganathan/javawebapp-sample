@@ -10,7 +10,7 @@ import org.springframework.util.StringUtils;
 import java.util.List;
 import java.util.Set;
 import java.util.TreeSet;
-
+/unchecked/
 public class RelatedPropertyConverter implements PropertyConverter {
   private static final Logger LOGGER = LoggerFactory.getLogger(RelatedPropertyConverter.class);
   private static final String METHOD_PARENT = "getParent";
