@@ -14,7 +14,7 @@ public class LoginController {
   @RequestMapping(value = "/sayhello")  //  -> url: /example1/sayhello
   @ResponseBody
   public String sayHello() {
-    return "Hello World dummy2222222";
+    return "Hello World dummy";
   }
 
 
